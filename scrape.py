@@ -21,8 +21,12 @@ for i,(name,team) in enumerate(zip(names,teams)):
 
     name = name.getText().strip()
     team = team.getText().strip()
-    position = team[-2:]
-    team = team[:-2]
+    if team[-1] == 'C':
+        position = team[-1]
+        team = team[:-2]
+    else:
+        position = team[-2:]
+        team = team[:-3]
 
 
     df.loc[rank] = [name,team,position]

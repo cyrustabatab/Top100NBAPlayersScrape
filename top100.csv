@@ -1,101 +1,101 @@
 rank,name,team,position
-1,LeBron James,Los Angeles Lakers ,SF
-2,Kawhi Leonard,Los Angeles Clippers ,SF
-3,Giannis Antetokounmpo,Milwaukee Bucks ,PF
-4,Stephen Curry,Golden State Warriors ,PG
-5,Anthony Davis,Los Angeles Lakers ,PF
-6,Luka Doncic,Dallas Mavericks ,SG
-7,Kevin Durant,Brooklyn Nets ,SF
-8,James Harden,Houston Rockets ,SG
-9,Damian Lillard,Portland Trail Blazers ,PG
-10,Nikola Jokic,Denver Nuggets, C
-11,Jayson Tatum,Boston Celtics ,PF
-12,Joel Embiid,Philadelphia 76ers, C
-13,Jimmy Butler,Miami Heat ,SF
-14,Bradley Beal,Washington Wizards ,SG
-15,Paul George,Los Angeles Clippers ,SG
-16,Devin Booker,Phoenix Suns ,SG
-17,Karl-Anthony Towns,Minnesota Timberwolves, C
-18,Bam Adebayo,Miami Heat ,PF
-19,Chris Paul,Phoenix Suns ,PG
-20,Ben Simmons,Philadelphia 76ers ,PG
-21,Donovan Mitchell,Utah Jazz ,SG
-22,Jamal Murray,Denver Nuggets ,PG
-23,Kyrie Irving,Brooklyn Nets ,PG
-24,Zion Williamson,New Orleans Pelicans ,SF
-25,Trae Young,Atlanta Hawks ,PG
-26,Pascal Siakam,Toronto Raptors ,PF
-27,Kyle Lowry,Toronto Raptors ,PG
-28,Khris Middleton,Milwaukee Bucks ,SF
-29,Rudy Gobert,Utah Jazz, C
-30,Kristaps Porzingis,Dallas Mavericks ,PF
-31,Jaylen Brown,Boston Celtics ,SG
-32,Brandon Ingram,New Orleans Pelicans ,SF
-33,Kemba Walker,Boston Celtics ,PG
-34,Jrue Holiday,Milwaukee Bucks ,SG
-35,Russell Westbrook,Washington Wizards ,PG
-36,Draymond Green,Golden State Warriors ,PF
-37,CJ McCollum,Portland Trail Blazers ,SG
-38,De'Aaron Fox,Sacramento Kings ,PG
-39,Ja Morant,Memphis Grizzlies ,PG
-40,Fred VanVleet,Toronto Raptors ,SG
-41,Malcolm Brogdon,Indiana Pacers ,PG
-42,Gordon Hayward,Boston Celtics ,SF
-43,Marcus Smart,Boston Celtics ,PG
-44,Domantas Sabonis,Indiana Pacers ,PF
-45,Shai Gilgeous-Alexander,Oklahoma City Thunder ,SG
-46,Zach LaVine,Chicago Bulls ,SG
-47,Jaren Jackson Jr.,Memphis Grizzlies ,PF
-48,Nikola Vucevic,Orlando Magic, C
-49,Mike Conley,Utah Jazz ,PG
-50,Jusuf Nurkic,Portland Trail Blazers, C
-51,DeMar DeRozan,San Antonio Spurs ,SG
-52,LaMarcus Aldridge,San Antonio Spurs ,PF
-53,Robert Covington,Portland Trail Blazers ,PF
-54,Caris LeVert,Brooklyn Nets ,SG
-55,Bogdan Bogdanovic,Atlanta Hawks ,SG
-56,Danilo Gallinari,Atlanta Hawks ,PF
-57,Deandre Ayton,Phoenix Suns, C
-58,D'Angelo Russell,Minnesota Timberwolves ,SG
-59,T.J. Warren,Indiana Pacers ,SF
-60,John Collins,Atlanta Hawks ,PF
-61,Tobias Harris,Philadelphia 76ers ,SF
-62,Bojan Bogdanovic,Utah Jazz ,SF
-63,Myles Turner,Indiana Pacers, C
-64,Goran Dragic,Miami Heat ,PG
-65,Aaron Gordon,Orlando Magic ,PF
-66,Christian Wood,Houston Rockets ,PF
-67,OG Anunoby,Toronto Raptors ,SF
-68,Brook Lopez,Milwaukee Bucks, C
-69,Spencer Dinwiddie,Brooklyn Nets ,PG
-70,Victor Oladipo,Indiana Pacers ,SG
-71,Joe Harris,Brooklyn Nets ,SG
-72,Tyler Herro,Miami Heat ,SG
-73,Blake Griffin,Detroit Pistons ,PF
-74,Serge Ibaka,Los Angeles Clippers, C
-75,Duncan Robinson,Miami Heat ,SG
-76,Buddy Hield,Sacramento Kings ,SG
-77,Kevin Love,Cleveland Cavaliers ,PF
-78,P.J. Tucker,Houston Rockets ,PF
-79,Joe Ingles,Utah Jazz ,SF
-80,Davis Bertans,Washington Wizards ,SF
-81,Marc Gasol,Los Angeles Lakers, C
-82,Dennis Schroder,Los Angeles Lakers ,PG
-83,Montrezl Harrell,Los Angeles Lakers ,PF
-84,JJ Redick,New Orleans Pelicans ,SG
-85,Al Horford,Oklahoma City Thunder ,PF
-86,Seth Curry,Philadelphia 76ers ,SG
-87,Josh Richardson,Dallas Mavericks ,SG
-88,Jerami Grant,Detroit Pistons ,PF
-89,Mikal Bridges,Phoenix Suns ,SF
-90,Lou Williams,Los Angeles Clippers ,SG
-91,Derrick White,San Antonio Spurs ,PG
-92,Patrick Beverley,Los Angeles Clippers ,PG
-93,Brandon Clarke,Memphis Grizzlies ,SF
-94,Ricky Rubio,Minnesota Timberwolves ,PG
-95,Devonte' Graham,Charlotte Hornets ,PG
-96,Otto Porter Jr.,Chicago Bulls ,SF
-97,Danny Green,Philadelphia 76ers ,SG
-98,Derrick Rose,Detroit Pistons ,PG
-99,George Hill,Oklahoma City Thunder ,PG
-100,Dejounte Murray,San Antonio Spurs ,PG
+1,LeBron James,Los Angeles Lakers,SF
+2,Kawhi Leonard,Los Angeles Clippers,SF
+3,Giannis Antetokounmpo,Milwaukee Bucks,PF
+4,Stephen Curry,Golden State Warriors,PG
+5,Anthony Davis,Los Angeles Lakers,PF
+6,Luka Doncic,Dallas Mavericks,SG
+7,Kevin Durant,Brooklyn Nets,SF
+8,James Harden,Houston Rockets,SG
+9,Damian Lillard,Portland Trail Blazers,PG
+10,Nikola Jokic,Denver Nuggets,C
+11,Jayson Tatum,Boston Celtics,PF
+12,Joel Embiid,Philadelphia 76ers,C
+13,Jimmy Butler,Miami Heat,SF
+14,Bradley Beal,Washington Wizards,SG
+15,Paul George,Los Angeles Clippers,SG
+16,Devin Booker,Phoenix Suns,SG
+17,Karl-Anthony Towns,Minnesota Timberwolves,C
+18,Bam Adebayo,Miami Heat,PF
+19,Chris Paul,Phoenix Suns,PG
+20,Ben Simmons,Philadelphia 76ers,PG
+21,Donovan Mitchell,Utah Jazz,SG
+22,Jamal Murray,Denver Nuggets,PG
+23,Kyrie Irving,Brooklyn Nets,PG
+24,Zion Williamson,New Orleans Pelicans,SF
+25,Trae Young,Atlanta Hawks,PG
+26,Pascal Siakam,Toronto Raptors,PF
+27,Kyle Lowry,Toronto Raptors,PG
+28,Khris Middleton,Milwaukee Bucks,SF
+29,Rudy Gobert,Utah Jazz,C
+30,Kristaps Porzingis,Dallas Mavericks,PF
+31,Jaylen Brown,Boston Celtics,SG
+32,Brandon Ingram,New Orleans Pelicans,SF
+33,Kemba Walker,Boston Celtics,PG
+34,Jrue Holiday,Milwaukee Bucks,SG
+35,Russell Westbrook,Washington Wizards,PG
+36,Draymond Green,Golden State Warriors,PF
+37,CJ McCollum,Portland Trail Blazers,SG
+38,De'Aaron Fox,Sacramento Kings,PG
+39,Ja Morant,Memphis Grizzlies,PG
+40,Fred VanVleet,Toronto Raptors,SG
+41,Malcolm Brogdon,Indiana Pacers,PG
+42,Gordon Hayward,Boston Celtics,SF
+43,Marcus Smart,Boston Celtics,PG
+44,Domantas Sabonis,Indiana Pacers,PF
+45,Shai Gilgeous-Alexander,Oklahoma City Thunder,SG
+46,Zach LaVine,Chicago Bulls,SG
+47,Jaren Jackson Jr.,Memphis Grizzlies,PF
+48,Nikola Vucevic,Orlando Magic,C
+49,Mike Conley,Utah Jazz,PG
+50,Jusuf Nurkic,Portland Trail Blazers,C
+51,DeMar DeRozan,San Antonio Spurs,SG
+52,LaMarcus Aldridge,San Antonio Spurs,PF
+53,Robert Covington,Portland Trail Blazers,PF
+54,Caris LeVert,Brooklyn Nets,SG
+55,Bogdan Bogdanovic,Atlanta Hawks,SG
+56,Danilo Gallinari,Atlanta Hawks,PF
+57,Deandre Ayton,Phoenix Suns,C
+58,D'Angelo Russell,Minnesota Timberwolves,SG
+59,T.J. Warren,Indiana Pacers,SF
+60,John Collins,Atlanta Hawks,PF
+61,Tobias Harris,Philadelphia 76ers,SF
+62,Bojan Bogdanovic,Utah Jazz,SF
+63,Myles Turner,Indiana Pacers,C
+64,Goran Dragic,Miami Heat,PG
+65,Aaron Gordon,Orlando Magic,PF
+66,Christian Wood,Houston Rockets,PF
+67,OG Anunoby,Toronto Raptors,SF
+68,Brook Lopez,Milwaukee Bucks,C
+69,Spencer Dinwiddie,Brooklyn Nets,PG
+70,Victor Oladipo,Indiana Pacers,SG
+71,Joe Harris,Brooklyn Nets,SG
+72,Tyler Herro,Miami Heat,SG
+73,Blake Griffin,Detroit Pistons,PF
+74,Serge Ibaka,Los Angeles Clippers,C
+75,Duncan Robinson,Miami Heat,SG
+76,Buddy Hield,Sacramento Kings,SG
+77,Kevin Love,Cleveland Cavaliers,PF
+78,P.J. Tucker,Houston Rockets,PF
+79,Joe Ingles,Utah Jazz,SF
+80,Davis Bertans,Washington Wizards,SF
+81,Marc Gasol,Los Angeles Lakers,C
+82,Dennis Schroder,Los Angeles Lakers,PG
+83,Montrezl Harrell,Los Angeles Lakers,PF
+84,JJ Redick,New Orleans Pelicans,SG
+85,Al Horford,Oklahoma City Thunder,PF
+86,Seth Curry,Philadelphia 76ers,SG
+87,Josh Richardson,Dallas Mavericks,SG
+88,Jerami Grant,Detroit Pistons,PF
+89,Mikal Bridges,Phoenix Suns,SF
+90,Lou Williams,Los Angeles Clippers,SG
+91,Derrick White,San Antonio Spurs,PG
+92,Patrick Beverley,Los Angeles Clippers,PG
+93,Brandon Clarke,Memphis Grizzlies,SF
+94,Ricky Rubio,Minnesota Timberwolves,PG
+95,Devonte' Graham,Charlotte Hornets,PG
+96,Otto Porter Jr.,Chicago Bulls,SF
+97,Danny Green,Philadelphia 76ers,SG
+98,Derrick Rose,Detroit Pistons,PG
+99,George Hill,Oklahoma City Thunder,PG
+100,Dejounte Murray,San Antonio Spurs,PG
